@@ -22,5 +22,3 @@ It serves as a **perfect starter template** for beginners and developers looking
 - **Nodemon** (for development)  
 
 ---
-
-## 📂 Project Structure  
